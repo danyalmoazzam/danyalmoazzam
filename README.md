@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Danyal Moazzam. and I'm a MERN Stack Developer, from Pakistan 🇵🇰 .</h3>
+<h3 align="center">Hi 👋! My name is Danyal Moazzam and I'm a MERN Stack Developer, from Pakistan 🇵🇰 .</h3>
 
 ###
 
