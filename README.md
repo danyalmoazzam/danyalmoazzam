@@ -57,3 +57,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/danyalmoazzam/danyalmoazzam/output/snake.svg" alt="Snake animation" />
+
+###
