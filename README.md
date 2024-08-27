@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Danyal and I'm a MERN Stack Developer from Pakistan 🇵🇰</h2>
+<h2 align="center">Hi 👋! My name is Danyal and I'm a Full Stack Web and Mobile App Developer, Cloud Specialist, Generative AI Expert from Pakistan 🇵🇰</h2>
 
 ###
 
