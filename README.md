@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Danyal and I'm a Full Stack Web and Mobile App Developer, Cloud Specialist, Generative AI Expert from Pakistan 🇵🇰</h2>
+<h2 align="center" >Hi 👋! My name is Danyal and I'm a Full Stack Web and Mobile App Developer, Cloud Specialist, Generative AI Expert from Pakistan 🇵🇰</h2>
 
 ###
 
@@ -57,7 +57,15 @@
 </div>
 
 ###
-
+<div align="center">
 <img src="https://raw.githubusercontent.com/danyalmoazzam/danyalmoazzam/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
+
+###
+
+[![Have a look at danyalmoazzam Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/theshiveshnetwork)](https://holopin.me/theshiveshnetwork)
+
+###
+
